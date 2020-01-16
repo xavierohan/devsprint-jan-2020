@@ -24,3 +24,5 @@ TBD
 |PostgreSQL  | https://www.postgresql.org        | https://www.postgresql.org/developer/summerofcode/|
 |SymPy  | https://sympy.org/        | https://docs.sympy.org/1.5.1/guide.html#contributing
 |lenskit(rec system)  |https://lenskit.org/  | https://github.com/lenskit/lkpy
+|Submitty  | https://submitty.org/       | https://submitty.org/developer/how_to_contribute
+|NumPy  |https://numpy.org/     | https://docs.scipy.org/doc/numpy/dev/
